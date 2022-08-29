@@ -1,0 +1,10 @@
+[package]
+description = "A super-simple for handling [D]elimiter [S]eparated [V]alue records."
+authors = ["github.com/sleb"]
+repository = "https://github.com/sleb/dsv"
+license-file = "LICENSE"
+name = "dsv"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
